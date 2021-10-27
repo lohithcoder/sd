@@ -1,0 +1,57 @@
+body{
+   background-image: url(./world-book-day-stack-of-books-with-glasses-on-mint-background-vector.jpg);
+   height: 12px;
+align-self: center;
+   text-align: center;
+
+   font-family: 'Ballet', cursive;
+  
+ 
+}
+.div-1{
+   opacity: .9;
+   background-color: red;
+   text-align: center;
+  margin-left: 345px;
+  margin-right: 345px;
+   align-self: center;
+   border-style: solid;
+   border-width: 5px;
+}
+img{
+   height: 400px;
+   align-self: center;
+}
+.div-2{
+background-color: rgb(255, 0, 0) ;
+opacity: .9;
+   background-color: red;
+   text-align: center;
+  margin-left: 345px;
+  margin-right: 345px;
+   align-self: center;
+   border-style: solid;
+   border-width: 5px;
+}
+.div-3{
+   background-color: rgb(255, 0, 0) ;
+opacity: .9;
+   background-color: red;
+   text-align: center;
+  margin-left: 345px;
+  margin-right: 345px;
+   align-self: center;
+   border-style: solid;
+   border-width: 5px;
+}
+.div-4{
+   background-color: rgb(255, 0, 0) ;
+opacity: .9;
+   background-color: red;
+   text-align: center;
+  margin-left: 345px;
+  margin-right: 345px;
+   align-self: center;
+   border-style: solid;
+   border-width: 5px;
+}
